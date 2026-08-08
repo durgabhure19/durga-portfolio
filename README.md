@@ -52,7 +52,7 @@ You can download my resume from my portfolio website.
 
 - **Email:** durgabhure19@gmail.com
 - **GitHub:** https://github.com/durgabhure19
-- **LinkedIn:** https://www.linkedin.com/
+- **LinkedIn:** https://www.linkedin.com/in/durga-bhure-765536221/
 
 ---
 
